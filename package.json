@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmteasources/voluptatibus-iste-voluptatibus-est",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,32 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmteasources/voluptatibus-iste-voluptatibus-est.git"
   },
   "dependencies": {
+    "@npmteasources/alias-possimus-molestias-dolores": "^1.0.0",
+    "@npmteasources/blanditiis-autem-aperiam-cum": "^1.0.0",
+    "@npmteasources/blanditiis-minima-veniam-praesentium": "^1.0.0",
+    "@npmteasources/eveniet-consequuntur-necessitatibus-ea": "^1.0.0",
+    "@npmteasources/eveniet-ea-voluptatem-nostrum": "^1.0.0",
+    "@npmteasources/illum-amet-deleniti-laboriosam": "^1.0.0",
+    "@npmteasources/iste-numquam-eveniet-iste": "^1.0.0",
+    "@npmteasources/natus-consequuntur-sapiente-voluptate": "^1.0.0",
+    "@npmteasources/nemo-distinctio-quod-iusto": "^1.0.0",
+    "@npmteasources/nemo-reprehenderit-similique-et": "^1.0.0",
+    "@npmteasources/neque-neque-ex-quos": "^1.0.0",
+    "@npmteasources/nostrum-eius-explicabo-commodi": "^1.0.0",
+    "@npmteasources/quaerat-deserunt-deleniti-ex": "^1.0.0",
+    "@npmteasources/quam-praesentium-aspernatur-alias": "^1.0.0",
+    "@npmteasources/quia-amet-sed-nostrum": "^1.0.0",
+    "@npmteasources/quia-temporibus-deleniti-modi": "^1.0.0",
+    "@npmteasources/quo-quia-necessitatibus-corrupti": "^1.0.0",
+    "@npmteasources/repellendus-similique-voluptatibus-harum": "^1.0.0",
+    "@npmteasources/repudiandae-vitae-sunt-quis": "^1.0.0",
+    "@npmteasources/sint-unde-totam-modi": "^1.0.0",
+    "@npmteasources/sit-iste-error-dolore": "^1.0.0",
+    "@npmteasources/tempore-cumque-quae-autem": "^1.0.0",
+    "@npmteasources/tempore-illum-laborum-quisquam": "^1.0.0",
+    "@npmteasources/voluptatum-amet-similique-sunt": "^1.0.0"
   }
 }
